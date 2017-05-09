@@ -17,3 +17,8 @@ Because this class is parameterizable by the callback interfaces and the SQLExce
 All SQL operations performed by this class are logged at debug level, using "org.springframework.jdbc.core.JdbcTemplate" as log category.
 
 NOTE: An instance of this class is thread-safe once configured.
+
+Since:
+May 3, 2001
+Author:
+Rod Johnson, Juergen Hoeller, Thomas Risberg
